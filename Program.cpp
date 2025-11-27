@@ -21,7 +21,7 @@ int main()
         }
     }
     
-    cout << "Максимум: " << max << endl;
+    cout << "Максимум этого списка: " << max << endl;
     
     return 0;
 }
